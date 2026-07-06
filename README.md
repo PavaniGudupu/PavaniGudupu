@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pavani Gudupu</h1>
-<h3 align="center">Aspiring Software Developer with knowledge of the PERN stack, RESTful APIs, and SQL-based backend systems. Interested in building full-stack web applications and continuously learning modern web development technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanigudupu&label=Profile%20views&color=0e75b6&style=flat" alt="pavanigudupu" /> </p>
+<h3 align="center">
+Aspiring Software Developer passionate about full-stack web development, RESTful APIs, SQL, and backend technologies. Currently learning modern development tools and building projects to improve my skills.
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanigudupu" alt="pavanigudupu" /></a> </p>
+- 💼 I previously worked as a **Customer Support Executive at Venx IT Solutions**, where I provided support for billing and inventory software, resolved SQL-related issues, and assisted with backend troubleshooting.
 
-- 🔭 I’m currently working on **Customer Support Executive at Venx IT Solutions, handling billing & inventory software support, SQL troubleshooting, and backend issue resolution.**
+- 🌱 I’m currently learning **ASP.NET Core Web API, React, Java, Python, SQL, and the PERN Stack**
 
-- 🌱 I’m currently learning **ASP.NET Core Web API, React, Python, Java, SQL, PERN Stack**
+- 👯 I’m looking to collaborate on **Full-Stack Web Development Projects**
 
-- 👯 I’m looking to collaborate on [Full Stack Web Development Projects](https://github.com/PavaniGudupu)
+- 👨‍💻 My projects: **https://github.com/stars/PavaniGudupu/lists/full-stack-projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stars/PavaniGudupu/lists/full-stack-projects](https://github.com/stars/PavaniGudupu/lists/full-stack-projects)
+- 📫 Reach me at **pavani9419@gmail.com**
 
-- 📫 How to reach me **pavani9419@gmail.com**
+- 📄 Resume: **[https://drive.google.com/file/d/1h2-V93eWz7gStxc5v1z_wSX0Cg_szdvv/view?usp=sharing](https://drive.google.com/file/d/10uiW1OGxeWwb_Hpj2EMlVDn0IfRyv4l1/view?usp=drive_link)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h2-V93eWz7gStxc5v1z_wSX0Cg_szdvv/view?usp=sharing](https://drive.google.com/file/d/1h2-V93eWz7gStxc5v1z_wSX0Cg_szdvv/view?usp=sharing)
-
-- ⚡ Fun fact **I love building creative web applications and exploring modern technologies 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
