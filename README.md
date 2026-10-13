@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavani Gudupu</h1>
 
 <h3 align="center">
-Aspiring Software Developer passionate about full-stack web development, RESTful APIs, SQL, and backend technologies. Currently learning modern development tools and building projects to improve my skills.
+Computer Science graduate and passionate about full-stack web development, RESTful APIs, SQL, and backend technologies. Currently learning modern development tools and building projects to improve my skills.
 </h3>
 
 - 💼 I previously worked as a **Customer Support Executive at Venx IT Solutions**, where I provided support for billing and inventory software, resolved SQL-related issues, and assisted with backend troubleshooting.
