@@ -14,7 +14,7 @@ Aspiring Software Developer passionate about full-stack web development, RESTful
 
 - 📫 Reach me at **pavani9419@gmail.com**
 
-- 📄 Resume: **[https://drive.google.com/file/d/1h2-V93eWz7gStxc5v1z_wSX0Cg_szdvv/view?usp=sharing](https://drive.google.com/file/d/10uiW1OGxeWwb_Hpj2EMlVDn0IfRyv4l1/view?usp=drive_link)**
+- 📄 Portfolio: **[https://greenyellow-jaguar-739737.hostingersite.com/])**
 
 
 <h3 align="left">Connect with me:</h3>
